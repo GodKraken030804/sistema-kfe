@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col overflow-hidden">
       
-      <header className="bg-white shadow-md py-4 px-10 z-10">
-        <h1 className="text-2xl font-black text-amber-900 tracking-tighter text-center">
+      <header className="bg-kfe-brown shadow-md py-4 px-10 z-10">
+        <h1 className="text-2xl font-black text-white tracking-tighter text-center">
           KFE - SISTEMA DE PUNTO DE VENTA
         </h1>
       </header>

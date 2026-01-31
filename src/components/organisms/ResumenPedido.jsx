@@ -9,7 +9,7 @@ const OrderSummary = ({ cart, onRemoveItem, onCheckout }) => {
 
   return (
     <div className="bg-white max-h-[700px] flex flex-col shadow-xl border border-gray-200 w-80 lg:w-96 rounded-xl mt-10 mr-10">
-      <div className="p-6 border-b border-gray-100 bg-amber-600 rounded-t-xl">
+      <div className="p-6 border-b border-gray-100 bg-kfe-brown rounded-t-xl">
         <h2 className="text-xl font-black text-white uppercase tracking-tighter">
           Ticket de Venta
         </h2>

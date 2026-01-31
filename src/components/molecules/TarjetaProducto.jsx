@@ -17,7 +17,7 @@ const ProductCard = ({ product, onAdd }) => {
       
       <div className="text-center">
         <h3 className="text-lg font-bold text-gray-800 uppercase leading-tight">{product.name}</h3>
-        <p className="text-xs text-gray-400 mb-2">{product.category}</p>
+        <p className="text-xs text-black-400 mb-2">{product.category}</p>
         <Price amount={product.price} />
       </div>
 
