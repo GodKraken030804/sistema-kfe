@@ -1,6 +1,6 @@
 import React from 'react';
-import Button from '../atoms/Button';
-import Price from '../atoms/Price';
+import Button from '../atoms/Boton';
+import Price from '../atoms/Precio';
 
 const ProductCard = ({ product, onAdd }) => {
   return (
